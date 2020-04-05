@@ -1,4 +1,4 @@
-# Google COVID-19 Mobility Reports Scraper
+# Google COVID-19 Community Mobility Reports Scraper
 
 This dataset has been scraped from Google's Covid-19 Community Mobility Reports website. Core libraries include the tidyverse for data manipulation, rvest for web-scraping, and tabulizer for PDF-scraping.
 
